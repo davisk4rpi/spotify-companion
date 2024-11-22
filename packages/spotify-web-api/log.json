@@ -1,0 +1,652 @@
+[
+  {
+    "name": "Run The Track",
+    "artist": "sumthin sumthin",
+    "album": "Run The Track",
+    "key": 8,
+    "mode": 0,
+    "camelotKey": "1A",
+    "tempo": 85.894,
+    "duration": 155.862
+  },
+  {
+    "name": "what U need",
+    "artist": "sumthin sumthin, ero808",
+    "album": "what U need",
+    "key": 8,
+    "mode": 1,
+    "camelotKey": "4B",
+    "tempo": 140.046,
+    "duration": 205.714
+  },
+  {
+    "name": "Jinx",
+    "artist": "FLY",
+    "album": "Jinx",
+    "key": 6,
+    "mode": 0,
+    "camelotKey": "11A",
+    "tempo": 140.02,
+    "duration": 212.571
+  },
+  {
+    "name": "Which Way",
+    "artist": "G Jones",
+    "album": "Paths",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 123.452,
+    "duration": 178.865
+  },
+  {
+    "name": "Say What",
+    "artist": "G Jones, ISOxo",
+    "album": "Say What",
+    "key": 7,
+    "mode": 0,
+    "camelotKey": "6A",
+    "tempo": 144.91,
+    "duration": 190.054
+  },
+  {
+    "name": "R.A.V.E.",
+    "artist": "G Jones, Eprom",
+    "album": "Say What",
+    "key": 2,
+    "mode": 1,
+    "camelotKey": "10B",
+    "tempo": 144.015,
+    "duration": 189.542
+  },
+  {
+    "name": "Zoom In",
+    "artist": "Lab Group, Potions, tiedye ky",
+    "album": "Zoom In",
+    "key": 0,
+    "mode": 1,
+    "camelotKey": "8B",
+    "tempo": 139.772,
+    "duration": 176.587
+  },
+  {
+    "name": "Paradonks - Schmoop Remix",
+    "artist": "Hullabalo0, Schmoop",
+    "album": "Habaneuro: Remixed",
+    "key": 11,
+    "mode": 0,
+    "camelotKey": "10A",
+    "tempo": 164.005,
+    "duration": 201.951
+  },
+  {
+    "name": "Goner",
+    "artist": "Tipper",
+    "album": "Marble Hunting",
+    "key": 11,
+    "mode": 1,
+    "camelotKey": "1B",
+    "tempo": 136.016,
+    "duration": 213.785
+  },
+  {
+    "name": "Blessed",
+    "artist": "Calcium",
+    "album": "Dissolve EP",
+    "key": 2,
+    "mode": 1,
+    "camelotKey": "10B",
+    "tempo": 96.251,
+    "duration": 146.736
+  },
+  {
+    "name": "OUTTA CONTROL",
+    "artist": "COPYCATT, Zathlute",
+    "album": "Trash",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 119.941,
+    "duration": 88.209
+  },
+  {
+    "name": "Never Count On Me",
+    "artist": "Haywyre",
+    "album": "Never Count On Me",
+    "key": 9,
+    "mode": 0,
+    "camelotKey": "8A",
+    "tempo": 89.994,
+    "duration": 197.333
+  },
+  {
+    "name": "Rush Hour",
+    "artist": "Black Carl!, Saka",
+    "album": "Rush Hour",
+    "key": 10,
+    "mode": 0,
+    "camelotKey": "3A",
+    "tempo": 140.004,
+    "duration": 246.857
+  },
+  {
+    "name": "Brain Tickler",
+    "artist": "AHEE",
+    "album": "Brain Tickler",
+    "key": 9,
+    "mode": 1,
+    "camelotKey": "11B",
+    "tempo": 149.941,
+    "duration": 144.134
+  },
+  {
+    "name": "Ifrit",
+    "artist": "Saka",
+    "album": "Monomyth",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 133.983,
+    "duration": 243.582
+  },
+  {
+    "name": "Trenchcoat",
+    "artist": "Secret Recipe",
+    "album": "Endless Puzzles",
+    "key": 5,
+    "mode": 0,
+    "camelotKey": "4A",
+    "tempo": 139.973,
+    "duration": 118.982
+  },
+  {
+    "name": "What's Her Name",
+    "artist": "Eprom",
+    "album": "Syntheism",
+    "key": 9,
+    "mode": 0,
+    "camelotKey": "8A",
+    "tempo": 123.969,
+    "duration": 156.229
+  },
+  {
+    "name": "EDGE - Blanke Remix",
+    "artist": "Rezz, Blanke",
+    "album": "EDGE (The Remixes)",
+    "key": 2,
+    "mode": 1,
+    "camelotKey": "10B",
+    "tempo": 100.018,
+    "duration": 165.6
+  },
+  {
+    "name": "Let Go",
+    "artist": "dêtre",
+    "album": "Let Go",
+    "key": 11,
+    "mode": 1,
+    "camelotKey": "1B",
+    "tempo": 120.005,
+    "duration": 208.5
+  },
+  {
+    "name": "Trust",
+    "artist": "Eprom",
+    "album": "Trust",
+    "key": 2,
+    "mode": 1,
+    "camelotKey": "10B",
+    "tempo": 123.899,
+    "duration": 173.351
+  },
+  {
+    "name": "Bully",
+    "artist": "Esseks",
+    "album": "A HOLE IN THE FOURTH WALL",
+    "key": 8,
+    "mode": 0,
+    "camelotKey": "1A",
+    "tempo": 159.903,
+    "duration": 145.026
+  },
+  {
+    "name": "Vortex",
+    "artist": "Rezz, PEEKABOO",
+    "album": "Spiral",
+    "key": 0,
+    "mode": 1,
+    "camelotKey": "8B",
+    "tempo": 94.946,
+    "duration": 282.947
+  },
+  {
+    "name": "No Money",
+    "artist": "Toadface",
+    "album": "No Money",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 102.953,
+    "duration": 163.283
+  },
+  {
+    "name": "My Glitch",
+    "artist": "Tripp St.",
+    "album": "HOME",
+    "key": 2,
+    "mode": 1,
+    "camelotKey": "10B",
+    "tempo": 100.014,
+    "duration": 182.04
+  },
+  {
+    "name": "Come Alive",
+    "artist": "GorillaT",
+    "album": "Come Alive",
+    "key": 10,
+    "mode": 0,
+    "camelotKey": "3A",
+    "tempo": 180.04,
+    "duration": 148
+  },
+  {
+    "name": "PSYCHO",
+    "artist": "LYNY",
+    "album": "PSYCHO",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 130.877,
+    "duration": 135.577
+  },
+  {
+    "name": "Go Low",
+    "artist": "Tripp St.",
+    "album": "Gallery Of Sound",
+    "key": 10,
+    "mode": 0,
+    "camelotKey": "3A",
+    "tempo": 89.899,
+    "duration": 161.037
+  },
+  {
+    "name": "Forest Catcher",
+    "artist": "VCTRE",
+    "album": "East Kings Point",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 140.062,
+    "duration": 253.714
+  },
+  {
+    "name": "Not A Trend",
+    "artist": "Minnesota, VCTRE",
+    "album": "Not A Trend",
+    "key": 9,
+    "mode": 1,
+    "camelotKey": "11B",
+    "tempo": 84.605,
+    "duration": 214.588
+  },
+  {
+    "name": "Technique",
+    "artist": "Minnesota",
+    "album": "Curio",
+    "key": 0,
+    "mode": 1,
+    "camelotKey": "8B",
+    "tempo": 170.174,
+    "duration": 296.471
+  },
+  {
+    "name": "So Low",
+    "artist": "Black Carl!",
+    "album": "So Low",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 139.782,
+    "duration": 202.286
+  },
+  {
+    "name": "Differentiate",
+    "artist": "Black Carl!",
+    "album": "Differentiate",
+    "key": 6,
+    "mode": 1,
+    "camelotKey": "2B",
+    "tempo": 135.977,
+    "duration": 262.941
+  },
+  {
+    "name": "MUZZLED",
+    "artist": "Black Carl!",
+    "album": "MUZZLED",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 144.871,
+    "duration": 117.517
+  },
+  {
+    "name": "You Make Me Wanna",
+    "artist": "Capochino",
+    "album": "You Make Me Wanna",
+    "key": 2,
+    "mode": 1,
+    "camelotKey": "10B",
+    "tempo": 180.081,
+    "duration": 164.667
+  },
+  {
+    "name": "Nasty",
+    "artist": "Defunk",
+    "album": "Muzique, Vol. 4",
+    "key": 0,
+    "mode": 1,
+    "camelotKey": "8B",
+    "tempo": 88.943,
+    "duration": 167.191
+  },
+  {
+    "name": "Rebel - thook Remix",
+    "artist": "2¢, Craze, Four Color Zack, thook",
+    "album": "Rebel (Remixes)",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 87.503,
+    "duration": 208.457
+  },
+  {
+    "name": "Malleable",
+    "artist": "dêtre",
+    "album": "Malleable",
+    "key": 7,
+    "mode": 1,
+    "camelotKey": "9B",
+    "tempo": 159.972,
+    "duration": 162
+  },
+  {
+    "name": "Head Splitter",
+    "artist": "Getter",
+    "album": "Allegiance",
+    "key": 11,
+    "mode": 1,
+    "camelotKey": "1B",
+    "tempo": 149.994,
+    "duration": 214.4
+  },
+  {
+    "name": "Time Machine",
+    "artist": "Heirz",
+    "album": "Time Machine",
+    "key": 9,
+    "mode": 0,
+    "camelotKey": "8A",
+    "tempo": 172.012,
+    "duration": 181.193
+  },
+  {
+    "name": "In My Bag",
+    "artist": "illoh",
+    "album": "In My Bag",
+    "key": 5,
+    "mode": 1,
+    "camelotKey": "7B",
+    "tempo": 171.893,
+    "duration": 147.907
+  },
+  {
+    "name": "TROUBLE",
+    "artist": "ISOKNOCK, ISOxo, Knock2",
+    "album": "4EVR",
+    "key": 9,
+    "mode": 1,
+    "camelotKey": "11B",
+    "tempo": 129.975,
+    "duration": 170.571
+  },
+  {
+    "name": "Master This",
+    "artist": "Joe Ford",
+    "album": "Colours in Sound",
+    "key": 10,
+    "mode": 0,
+    "camelotKey": "3A",
+    "tempo": 171.917,
+    "duration": 260.238
+  },
+  {
+    "name": "Purple Daze",
+    "artist": "Minnesota",
+    "album": "Push It / Purple Daze (2011)",
+    "key": 2,
+    "mode": 1,
+    "camelotKey": "10B",
+    "tempo": 159.979,
+    "duration": 324.16
+  },
+  {
+    "name": "Dark Crystal",
+    "artist": "Minnesota",
+    "album": "Curio",
+    "key": 10,
+    "mode": 0,
+    "camelotKey": "3A",
+    "tempo": 168.081,
+    "duration": 238.446
+  },
+  {
+    "name": "Bones",
+    "artist": "Mr. Bill, Dirt Monkey, Ellika",
+    "album": "Mechanomorphic",
+    "key": 4,
+    "mode": 0,
+    "camelotKey": "9A",
+    "tempo": 174.092,
+    "duration": 266.108
+  },
+  {
+    "name": "Bring It On",
+    "artist": "Mr. Bill, COPYCATT, Def3",
+    "album": "Mechanomorphic",
+    "key": 10,
+    "mode": 0,
+    "camelotKey": "3A",
+    "tempo": 169.989,
+    "duration": 149.422
+  },
+  {
+    "name": "Hitz",
+    "artist": "LYNY",
+    "album": "Hitz",
+    "key": 10,
+    "mode": 0,
+    "camelotKey": "3A",
+    "tempo": 132.052,
+    "duration": 168.018
+  },
+  {
+    "name": "Alien Overload",
+    "artist": "Rendr",
+    "album": "Alien Overload",
+    "key": 11,
+    "mode": 0,
+    "camelotKey": "10A",
+    "tempo": 93.996,
+    "duration": 148.085
+  },
+  {
+    "name": "Too Much",
+    "artist": "smith.",
+    "album": "Too Much",
+    "key": 11,
+    "mode": 1,
+    "camelotKey": "1B",
+    "tempo": 95.016,
+    "duration": 125.053
+  },
+  {
+    "name": "Straight Killa",
+    "artist": "WonkyWilla",
+    "album": "Straight Killa",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 145.073,
+    "duration": 158.276
+  },
+  {
+    "name": "Rise",
+    "artist": "VCTRE, OkayJake",
+    "album": "Rise",
+    "key": 9,
+    "mode": 1,
+    "camelotKey": "11B",
+    "tempo": 140.101,
+    "duration": 144
+  },
+  {
+    "name": "Tik Tok",
+    "artist": "Xotix, Princess Superstar",
+    "album": "Tik Tok",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 93.495,
+    "duration": 164.278
+  },
+  {
+    "name": "Dark Green Submarine",
+    "artist": "Homemade Spaceship, Mux Mool",
+    "album": "Dark Green Submarine",
+    "key": 11,
+    "mode": 0,
+    "camelotKey": "10A",
+    "tempo": 199.74,
+    "duration": 224.25
+  },
+  {
+    "name": "They Wanna Dance",
+    "artist": "tiedye ky",
+    "album": "They Wanna Dance",
+    "key": 5,
+    "mode": 1,
+    "camelotKey": "7B",
+    "tempo": 136.04,
+    "duration": 165
+  },
+  {
+    "name": "On My Mind",
+    "artist": "G Jones, Eprom",
+    "album": "Acid Disk 2",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 129.923,
+    "duration": 189.738
+  },
+  {
+    "name": "How It All Ends",
+    "artist": "Torbjørn",
+    "album": "How It All Ends",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 94.02,
+    "duration": 275.745
+  },
+  {
+    "name": "youbelieveamonsterlurksineachofus_8trk",
+    "artist": "Torbjørn",
+    "album": "youbelieveamonsterlurksineachofus_8trk",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 95.024,
+    "duration": 249.094
+  },
+  {
+    "name": "Uncontrolled",
+    "artist": "Yoshumidzu",
+    "album": "Uncontrolled",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 174.791,
+    "duration": 126.171
+  },
+  {
+    "name": "F.D.A.T",
+    "artist": "Resonant Language",
+    "album": "Gut Wrench",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 90.891,
+    "duration": 147.692
+  },
+  {
+    "name": "Iced Out Opals (feat. Just Neeks)",
+    "artist": "tiedye ky, Just Neeks",
+    "album": "This Is The Part Where",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 79.868,
+    "duration": 164
+  },
+  {
+    "name": "Uncertain Future",
+    "artist": "Humandala",
+    "album": "Happy Computer // Bad Operator",
+    "key": 2,
+    "mode": 1,
+    "camelotKey": "10B",
+    "tempo": 174.051,
+    "duration": 275.862
+  },
+  {
+    "name": "Next Up",
+    "artist": "Jon Casey, Wreckno",
+    "album": "EDC Orlando 2024",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 144.987,
+    "duration": 153.931
+  },
+  {
+    "name": "Ayumi",
+    "artist": "Yoshumidzu",
+    "album": "Ayumi",
+    "key": 1,
+    "mode": 1,
+    "camelotKey": "3B",
+    "tempo": 191.991,
+    "duration": 124.993
+  },
+  {
+    "name": "HERE I IS",
+    "artist": "BLAAP, Of The Trees, Freddy Todd, MotorKam",
+    "album": "VOLCANOLOGY",
+    "key": 4,
+    "mode": 0,
+    "camelotKey": "9A",
+    "tempo": 87.008,
+    "duration": 138.969
+  },
+  {
+    "name": "this beat is sick",
+    "artist": "tsou",
+    "album": "this beat is sick",
+    "key": 11,
+    "mode": 0,
+    "camelotKey": "10A",
+    "tempo": 72.293,
+    "duration": 189.753
+  }
+]

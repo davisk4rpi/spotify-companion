@@ -14,5 +14,5 @@ export const getArtist = (_a) => __awaiter(void 0, [_a], void 0, function* ({ ac
     const response = yield axios.get(`https://api.spotify.com/v1/artists/${artistId}`, {
         headers: { Authorization: `Bearer ${accessToken}` },
     });
-    console.log(response.data);
+    return response.data;
 });

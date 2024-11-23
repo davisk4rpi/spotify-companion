@@ -16,5 +16,5 @@ export const getArtist = async ({
       headers: { Authorization: `Bearer ${accessToken}` },
     }
   );
-  console.log(response.data);
+  return response.data;
 };

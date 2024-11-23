@@ -15,6 +15,7 @@ invariant(process.env.SPOTIFY_CLIENT_SECRET, "SPOTIFY_CLIENT_SECRET is required"
 const client = createSpotifyWebApiClient({
     clientId: process.env.SPOTIFY_CLIENT_ID,
     clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
+    redirectUri: "http://localhost:3000/spotify/auth/callback",
 });
 // client.getArtist("4Z8W4fKeB5YxbusRsdQVPb");
 // client.getMe();

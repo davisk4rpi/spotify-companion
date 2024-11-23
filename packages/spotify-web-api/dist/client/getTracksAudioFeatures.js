@@ -8,9 +8,12 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
     });
 };
 import axios from "axios";
+import { getCamelotKey } from "./util/pitchMap.js";
 export const getTracksAudioFeatures = (_a) => __awaiter(void 0, [_a], void 0, function* ({ accessToken, trackIds, }) {
     const response = yield axios.get(`https://api.spotify.com/v1/audio-features?ids=${trackIds.join(",")}`, {
         headers: { Authorization: `Bearer ${accessToken}` },
     });
-    return response.data.audio_features;
+    return response.data.audio_features.map((feature) => {
+        return Object.assign(Object.assign({}, feature), { camelotKey: getCamelotKey(feature.key, feature.mode) });
+    });
 });

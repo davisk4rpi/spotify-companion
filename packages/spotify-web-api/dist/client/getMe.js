@@ -15,5 +15,5 @@ export const getMe = (_a) => __awaiter(void 0, [_a], void 0, function* ({ access
     const response = yield axios.get("https://api.spotify.com/v1/me", {
         headers: { Authorization: `Bearer ${accessToken}` },
     });
-    console.log(response.data);
+    return response.data;
 });

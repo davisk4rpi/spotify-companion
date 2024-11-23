@@ -2,7 +2,12 @@
   "name": "spotify-companion",
   "packageManager": "yarn@4.2.2",
   "private": true,
+  "scripts": {
+    "build": "yarn workspace @sc/spotify-web-api build",
+    "dev": "yarn workspace @sc/web dev"
+  },
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "apps/*"
   ]
 }

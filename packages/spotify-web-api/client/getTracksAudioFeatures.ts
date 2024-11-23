@@ -1,4 +1,5 @@
 import axios from "axios";
+import { getCamelotKey } from "./util/pitchMap.js";
 
 export const getTracksAudioFeatures = async ({
   accessToken,
@@ -13,7 +14,14 @@ export const getTracksAudioFeatures = async ({
       headers: { Authorization: `Bearer ${accessToken}` },
     }
   );
-  return response.data.audio_features as SpotifyAudioFeatures[];
+  return (response.data.audio_features as SpotifyAudioFeatures[]).map(
+    (feature) => {
+      return {
+        ...feature,
+        camelotKey: getCamelotKey(feature.key, feature.mode),
+      };
+    }
+  ) as (SpotifyAudioFeatures & { camelotKey: string })[];
 };
 
 export type SpotifyAudioFeatures = {

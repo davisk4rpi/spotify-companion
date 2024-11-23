@@ -3,6 +3,8 @@
   "compilerOptions": {
     "target": "es2016",
     "module": "NodeNext",
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "declaration": true,
+    "declarationDir": "./types"
   }
 }
